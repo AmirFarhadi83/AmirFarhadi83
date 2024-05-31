@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Farhadi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate web developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirfarhadi83&label=Profile%20views&color=0e75b6&style=flat" alt="amirfarhadi83" /> </p>
 
